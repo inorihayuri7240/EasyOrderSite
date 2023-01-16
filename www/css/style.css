@@ -1,0 +1,17 @@
+body{
+    font-size:12px;
+    font-family: 微軟正黑體;
+}
+            
+.ul-red{
+    text-decoration-line: underline;
+    text-decoration-color: crimson;
+}
+
+th,td{
+	white-space: nowrap; //規定表格單元格中的內容不換行
+}
+
+.dis-non{
+	display: none;
+}
