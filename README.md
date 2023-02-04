@@ -1,6 +1,6 @@
 # EasyOrderSite
 ## 簡介
-&emsp;透過簡易訂單網站建置，實現網頁專案，其中包含前端套件應用、資料庫設計與串接等。
+&emsp;&emsp;透過簡易訂單網站建置，實現網頁專案，其中包含前端套件應用、資料庫設計與串接等。
 ## 系統展示
 ### 登入
 <img src=https://github.com/inorihayuri7240/EasyOrderSite/blob/main/other/system%20display%20video/%E7%99%BB%E5%85%A5.gif/> 
